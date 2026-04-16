@@ -35,7 +35,7 @@
     }
   ],
   "node_name": "chi022",
-  "node_type": "amd64",
+  "node_type": "compute_zen5_grado",
   "placement": {},
   "processor": {
     "cache_l1d": 49152,
